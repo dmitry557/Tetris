@@ -1,0 +1,15 @@
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\bin\Debug\net5.0\Randomazer.exe
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\bin\Debug\net5.0\Randomazer.deps.json
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\bin\Debug\net5.0\Randomazer.runtimeconfig.json
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\bin\Debug\net5.0\Randomazer.runtimeconfig.dev.json
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\bin\Debug\net5.0\Randomazer.dll
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\bin\Debug\net5.0\ref\Randomazer.dll
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\bin\Debug\net5.0\Randomazer.pdb
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\obj\Debug\net5.0\Randomazer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\obj\Debug\net5.0\Randomazer.AssemblyInfoInputs.cache
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\obj\Debug\net5.0\Randomazer.AssemblyInfo.cs
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\obj\Debug\net5.0\Randomazer.csproj.CoreCompileInputs.cache
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\obj\Debug\net5.0\Randomazer.dll
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\obj\Debug\net5.0\ref\Randomazer.dll
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\obj\Debug\net5.0\Randomazer.pdb
+E:\Практика_Проекты\Tetris\Tetris\Randomazer\obj\Debug\net5.0\Randomazer.genruntimeconfig.cache
